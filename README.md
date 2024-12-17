@@ -1,2 +1,2 @@
-# Servis-page
-The best option for option
+# Service-page
+The best option for service
